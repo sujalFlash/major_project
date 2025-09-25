@@ -1,0 +1,9 @@
+Django>=5.2.6
+djangorestframework
+torch
+torchvision
+pillow
+scikit-learn
+tqdm
+opencv-python-headless
+matplotlib
